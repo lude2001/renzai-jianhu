@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":2399577,"last_vip_set":1654120858,]),"study_skill":1,"per":30,"last_read_news":1653928213,"env":(["brief":0,"wimpy":60,]),"potential_bank":(["amount":100000,]),"shen":0,"character":"光明磊落","skill_point":3,"level":10,"shen_type":0,"max_jingli":30,"lilian":(["start":1654098832,]),"con":24,"eff_qi":616,"unit":"位","max_qi":616,"family":(["title":"传人","privs":0,"enter_time":1654080604,"generation":4,"master_name":"冯阿三","family_name":"逍遥派","master_id":"feng asan",]),"registered":1,"detach":(["丐帮":1,]),"last_cancel_quest_time":-28800,"int":30,"month":4,"can_speak":1,"race":"人类","day_sign_times":1,"jingli":30,"dex":13,"name":"天狗","potential":39340,"eff_jing":210,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"`cknhfch!gdhbnicofmdeiigfcngldmcajiggkk`f","purename":"天狗","jing":210,"tianfu_point":1,"surname":0,"combat_exp":155313,"max_jing":210,"neili":354,"chuwudai":1,"max_neili":295,"online_time":29630,"qi":616,"born_family":"中原人氏","class":"alchemist","javadoing":1,"buchang_lingqu":1,"special_skill":(["youth":1,]),"weihu":(["buchang220530":1,]),"last_examine":(["all_quest":0,"mud_age":92397,"experience":0,"potential":39340,"time":1654120805,"combat_exp":155313,]),"str":13,"score":2083,"learned_points":7810,"title":"逍遥派第四代传人","kar":24,"water":26,"born":"中原人氏","last_day_sign":1654047171,"mud_age":92456,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":26,"id":"yuch04","gender":"男性","last_ip":"103.45.155.4","last_save":1654120556,"attitude":"peaceful","maintask":2,"birthday":1653928211,"balance":345606,"shenyi_zhengrong":1654098629,"age":14,])
+skills (["force":18,"chuancai-jiyi":41,"xiaoyao-xinfa":51,"cuff":3,"dodge":18,"cooking":41,"unarmed":18,])
+learned (["force":292,"chuancai-jiyi":1212,"xiaoyao-xinfa":456,"dodge":340,"cooking":1092,"unarmed":218,])
+skill_map (["force":"xiaoyao-xinfa","cooking":"chuancai-jiyi",])
+autoload ({"/clone/money/coin:43","/clone/money/silver:393","/clone/misc/baibao","/common/bind_obj/clone/gift/tianxiang1:5","/common/bind_obj/clone/vip/dan_jiuzhuan:10","/common/bind_obj/clone/gift/putao1:3","/common/bind_obj/clone/vip/dan_chongmai2:50","/clone/maintask/obj/tianxiang:1",})
+at_time 1654120858
+ban_to 1654120906
+ban_say_msg "系统禁止你送出信息"

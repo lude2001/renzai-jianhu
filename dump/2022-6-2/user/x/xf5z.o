@@ -1,0 +1,14 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["lingzhi_num":1,"times":2129844,"last_vip_set":1654167727,]),"study_skill":1,"last_read_news":1653565408,"per":30,"env":(["wimpy":60,]),"potential_bank":(["amount":283185,]),"shen":-46,"character":"狡黠多变","gongxian":63,"shen_type":0,"lilian":(["start":1654104224,]),"con":26,"eff_qi":637,"unit":"位","max_qi":637,"registered":1,"family":(["title":"传人","master_name":"冯默风","generation":3,"enter_time":1654067391,"privs":0,"family_name":"桃花岛","master_id":"feng mofeng",]),"detach":(["华山剑宗":1,]),"last_cancel_quest_time":1654057959,"int":34,"month":5,"out_family":1,"can_speak":1,"task_work":1,"day_item":(["lingzhi":(["times":1,"last_time":1654017689,]),]),"race":"人类","day_sign_times":2,"jingli":0,"name":"情长","dex":17,"eff_jing":200,"potential":80890,"sec_id":"eboddgle!nebbmcidglfmihcabagam`gigmedo`bh","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"情长","jing":200,"yuan_bao":80,"surname":0,"learned_experience":7283,"combat_exp":159506,"max_jing":200,"neili":153,"magic_points":16532,"experience":7344,"max_neili":113,"chuwudai":1,"online_time":114842,"qi":637,"quest_count":83,"born_family":"中原人氏","class":"scholar","javadoing":1,"special_skill":(["lucky":1,]),"buchang_lingqu":1,"die_protect":(["duration":7200,"last_dead":1654055391,]),"weihu":(["buchang220530":1,]),"last_examine":(["all_quest":0,"mud_age":122582,"experience":7344,"potential":136215,"time":1654120805,"combat_exp":156592,]),"str":17,"score":1888,"learned_points":79890,"title":"桃花岛第三代传人","kar":10,"shimen":(["lun":8,"today":68,"last":1654057364,]),"startroom":"/d/city/kedian","water":266,"gift":(["jiuzhuan":11,"unknowdan":4,"xiandan":4,"shenliwan":4,"xisuidan":2,]),"born":"中原人氏","last_day_sign":1654104067,"mud_age":128990,"holiday":([]),"food":266,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":1095,"id":"xf5z","gender":"女性","last_ip":"103.45.155.4","last_save":1654166870,"attitude":"peaceful","maintask":4,"birthday":1653565406,"combat":(["MKS":86,"last_die":"被岳不群打晕以后，被劳德诺趁机杀掉了","dietimes":4,]),"balance":246854,"age":14,"shenyi_zhengrong":1654051533,])
+skills (["force":100,"chuancai-jiyi":34,"cuff":3,"martial-cognize":41,"dodge":13,"yeqiu-quan":3,"literate":25,"cooking":81,"unarmed":14,])
+learned (["force":5702,"martial-cognize":1505,"chuancai-jiyi":554,"dodge":185,"literate":6,"cooking":3957,"unarmed":191,"cuff":16,])
+skill_map (["cuff":"yeqiu-quan",])
+skill_prepare (["cuff":"yeqiu-quan",])
+autoload ({"/common/bind_obj/clone/vip/dan_chongmai2:1",})
+at_time 1654167724
+ban_to 1653959480
+ban_say_msg "系统禁止你送出信息"

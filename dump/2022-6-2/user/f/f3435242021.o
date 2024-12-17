@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1654120868,]),"online_time":29278,"qi":2,"per":10,"last_read_news":1654081993,"born_family":"段氏皇族","env":(["wimpy":60,]),"special_skill":(["ghost":1,]),"last_examine":(["all_quest":0,"mud_age":35358,"experience":0,"potential":14225,"time":1654120804,"combat_exp":14006,]),"die_protect":(["duration":7200,"last_dead":1654086480,]),"shen":0,"character":"狡黠多变","str":13,"score":0,"title":"普通百姓","kar":13,"startroom":"/d/city/wumiao","shen_type":0,"con":24,"water":221,"eff_qi":420,"unit":"位","max_qi":420,"registered":1,"int":30,"month":1,"born":"大理人氏","can_speak":1,"race":"人类","mud_age":35427,"dex":13,"name":"段王庭哲","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":221,"potential":14244,"eff_jing":200,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"gghcgema!dhegfiieacghglhi`obnemakd`ejkidl","weiwang":0,"purename":"王庭哲","id":"f3435242021","jing":2,"gender":"女性","last_ip":"103.45.155.4","surname":"段","combat_exp":14017,"last_save":1654120556,"max_jing":200,"attitude":"peaceful","birthday":1654081992,"combat":(["last_die":"被胡逸之震死了","dietimes":1,]),"age":14,])
+skills (["yeqiu-quan":3,"cuff":3,])
+autoload ({})
+at_time 1654086530
+ban_say_msg ""

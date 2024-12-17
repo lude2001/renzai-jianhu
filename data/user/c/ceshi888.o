@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":3346,"zjvip":(["times":0,"last_vip_set":1719221490,]),"qi":595,"last_read_news":1719218114,"per":10,"born_family":"段氏皇族","env":(["wimpy":60,]),"special_skill":(["self":1,]),"shen":0,"character":"心狠手辣","str":20,"title":"普通百姓","kar":29,"startroom":"/d/dali/wangfugate","shen_type":0,"con":20,"water":292,"eff_qi":596,"unit":"位","max_qi":600,"registered":1,"int":20,"month":0,"born":"大理人氏","can_speak":1,"race":"人类","mud_age":3376,"dex":20,"name":"段小伙子","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":292,"potential":100,"eff_jing":200,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"NA.fvzWrJAoyA","purename":"小伙子","id":"ceshi888","jing":200,"gender":"男性","last_ip":"127.0.0.1","surname":"段","last_save":1719221185,"max_jing":200,"attitude":"peaceful","birthday":1719217847,"age":14,])
+skills (["yeqiu-quan":3,"cuff":3,])
+autoload ({})
+at_time 1719219148
+ban_say_msg ""

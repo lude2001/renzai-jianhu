@@ -1,0 +1,15 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+conditions (["hunger":12,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["buchang220525":1,"lingzhi_num":1,"times":0,"last_vip_set":1654167569,]),"bangpai":(["finish":1,]),"per":10,"last_read_news":1653460341,"env":(["wimpy":60,]),"shen":0,"character":"光明磊落","shen_type":0,"con":24,"eff_qi":131,"unit":"位","max_qi":689,"registered":1,"backup":(["condition":0,]),"last_cancel_quest_time":-28800,"int":30,"month":0,"can_speak":1,"day_item":(["lingzhi":(["last_time":1653818099,"times":1,]),]),"race":"人类","day_sign_times":1,"dex":13,"name":"钱袋","potential":127822,"eff_jing":220,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"caiagggd!ihlnnlc`djfiimjn`jbeallkgdkddjl`","purename":"钱袋","jing":220,"yuan_bao":100,"surname":0,"combat_exp":530141,"max_jing":240,"neili":100,"max_neili":100,"chuwudai":1,"online_time":515666,"qi":4,"born_family":"中原人氏","special_skill":(["agile":1,]),"javadoing":1,"last_examine":(["all_quest":0,"mud_age":490053,"experience":0,"potential":127822,"time":1654120804,"combat_exp":492767,]),"weihu":(["buchang220527":1,]),"str":13,"score":35028,"title":"普通百姓","fuben_moku":(["last_time":1653472153,]),"kar":19,"startroom":"/d/city/kedian","water":0,"born":"中原人氏","last_day_sign":1653521534,"mud_age":534872,"holiday":([]),"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":0,"id":"qq7805","gender":"男性","last_ip":"103.45.155.4","last_save":1654166369,"attitude":"peaceful","birthday":1653460339,"balance":19000,"age":16,])
+skills (["force":47,"dodge":47,"yeqiu-quan":3,"unarmed":47,"cuff":3,])
+learned (["force":1539,"dodge":693,"unarmed":1257,])
+skill_map (["cuff":"yeqiu-quan",])
+skill_prepare (["cuff":"yeqiu-quan",])
+autoload ({"/clone/gift/dan_chongmai1:1","/u/cx/luck/daputao:4","/u/cx/luck/lingzhi","/u/cx/luck/putao:1","/clone/misc/baibao","/clone/gift/gift_duanwu:1","/clone/money/coin:2428598",})
+at_time 1654166382
+ban_to 1654166397
+ban_say_msg "系统禁止你送出信息"

@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":22622,"zjvip":(["times":0,"last_vip_set":1654120846,]),"qi":600,"last_read_news":1654092287,"per":10,"born_family":"中原人氏","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":28508,"experience":0,"potential":13121,"time":1654120804,"combat_exp":13209,]),"shen":0,"character":"光明磊落","str":13,"title":"普通百姓","kar":30,"shen_type":0,"con":24,"water":226,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"int":30,"month":1,"last_day_sign":1654092324,"can_speak":1,"born":"中原人氏","day_sign_times":1,"race":"人类","mud_age":28559,"name":"殷语","dex":13,"eff_jing":200,"potential":13126,"food":226,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"nclhmimc!nljoenj`hmlnaj`mi`bgll`dhbameljg","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"haoxue","purename":"殷语","jing":200,"gender":"女性","last_ip":"103.45.155.4","surname":0,"combat_exp":13228,"last_save":1654120523,"max_jing":200,"attitude":"peaceful","birthday":1654092285,"age":14,])
+skills (["yeqiu-quan":3,"cuff":3,])
+autoload ({"/clone/shizhe/putao:1",})
+at_time 1654092350
+ban_say_msg ""

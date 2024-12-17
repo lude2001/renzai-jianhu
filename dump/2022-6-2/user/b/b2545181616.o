@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":2388997,"last_vip_set":1654120866,]),"study_skill":1,"per":30,"last_read_news":1653917644,"env":(["wimpy":60,]),"shen":0,"character":"狡黠多变","shen_type":0,"lilian":(["start":1654078441,]),"con":28,"eff_qi":1016,"unit":"位","max_qi":1016,"registered":1,"family":(["title":"传人","master_name":"移花宫花奴","generation":4,"enter_time":1653917857,"privs":0,"family_name":"移花宫","master_id":"hua nu",]),"last_cancel_quest_time":-28800,"int":34,"month":5,"can_speak":1,"race":"人类","day_sign_times":2,"dex":17,"name":"苏渺渺","potential":126309,"eff_jing":200,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"imhhhnoo!bjmjognnf`fbbjknccfedfnh`delaagd","purename":"苏渺渺","jing":200,"surname":0,"combat_exp":78291,"max_jing":200,"magic_points":16245,"neili":1901,"experience":9964,"chuwudai":1,"max_neili":1420,"online_time":97560,"qi":1016,"born_family":"中原人氏","class":"huanu","buchang_lingqu":1,"special_skill":(["lucky":1,]),"javadoing":1,"weihu":(["buchang220530":1,]),"last_examine":(["all_quest":0,"mud_age":108978,"experience":9964,"potential":126309,"time":1654120804,"combat_exp":78291,]),"str":17,"learned_points":126274,"title":"移花宫第四代传人","kar":15,"water":130,"gift":(["jiuzhuan":10,"unknowdan":4,"xiandan":4,"shenliwan":4,"xisuidan":4,]),"born":"中原人氏","last_day_sign":1653975840,"mud_age":109045,"holiday":([]),"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":130,"id":"b2545181616","gender":"女性","last_ip":"103.45.155.4","last_save":1654120556,"attitude":"peaceful","maintask":2,"birthday":1653917642,"balance":200754,"age":14,"shenyi_zhengrong":1653917738,])
+skills (["force":93,"claw":18,"throwing":18,"club":18,"hand":18,"strike":21,"cuff":3,"finger":18,"mingyu-shengong":96,"staff":17,"yeqiu-quan":3,"dodge":93,"sword":93,"parry":14,"whip":18,"unarmed":85,])
+learned (["force":559,"claw":88,"throwing":149,"club":136,"hand":204,"strike":73,"finger":122,"mingyu-shengong":3190,"staff":198,"dodge":6683,"sword":7095,"parry":35,"whip":102,"unarmed":5589,])
+skill_map (["force":"mingyu-shengong",])
+autoload ({"/common/bind_obj/clone/gift/putao1:3","/clone/misc/baibao","/clone/shizhe/huxindan9:99",})
+at_time 1654120864
+ban_say_msg ""

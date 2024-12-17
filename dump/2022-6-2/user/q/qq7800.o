@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":1997589,"last_vip_set":1654167612,]),"study_skill":1,"per":10,"last_read_news":1653573025,"env":(["brief":0,"wimpy":60,]),"potential_bank":(["amount":225600,]),"shen":0,"character":"光明磊落","skill_point":10,"level":30,"shen_type":0,"max_jingli":90,"lilian":(["start":1653599252,]),"con":13,"eff_qi":717,"unit":"位","max_qi":717,"registered":1,"family":(["title":"传人","master_name":"岳不群","generation":14,"enter_time":1653573071,"privs":0,"family_name":"华山派","master_id":"yue buqun",]),"last_cancel_quest_time":-28800,"int":24,"month":4,"can_speak":1,"race":"人类","jingli":90,"dex":13,"name":"大力","potential":85051,"eff_jing":246,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"mbccbfdj!aoei`cihighmfnebkedndckifenhcdih","purename":"大力","jing":246,"tianfu_point":0,"surname":0,"combat_exp":375504,"max_jing":246,"neili":250,"experience":0,"chuwudai":1,"max_neili":250,"online_time":364408,"qi":19,"born_family":"中原人氏","class":"swordsman","javadoing":1,"special_skill":(["lucky":1,]),"weihu":(["buchang220530":1,]),"die_protect":(["duration":7200,"last_dead":1653920756,]),"last_examine":(["all_quest":0,"mud_age":322391,"experience":0,"potential":85051,"time":1654120804,"combat_exp":321721,]),"str":33,"score":17710,"learned_points":42797,"title":"华山派第十四代传人","kar":27,"startroom":"/d/city/wumiao","water":39,"banghui":(["name":"铁血丹心","zhiwei":"帮众",]),"born":"中原人氏","mud_age":367114,"holiday":([]),"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":39,"weiwang":0,"id":"qq7800","gender":"男性","last_ip":"103.45.155.4","tianfu":(["str":3,]),"last_save":1654166402,"attitude":"peaceful","maintask":2,"birthday":1653573023,"balance":5590,"combat":(["last_die":"被邀月刺死了","dietimes":2,]),"age":15,])
+skills (["force":35,"yeqiu-quan":3,"dodge":35,"cuff":3,"unarmed":104,])
+learned (["force":1229,"dodge":673,"unarmed":9119,])
+autoload ({"/clone/misc/baibao","/common/bind_obj/clone/vip/dan_chongmai2:50","/clone/money/gold:5","/clone/money/silver:41","/clone/money/coin:65532",})
+at_time 1654166382
+ban_to 1654166323
+ban_say_msg "系统禁止你送出信息"

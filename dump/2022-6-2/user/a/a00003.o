@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1654120878,]),"online_time":35872,"study_skill":1,"qi":600,"per":10,"last_read_news":1653821220,"born_family":"欧阳世家","class":"scholar","env":(["wimpy":60,]),"javadoing":1,"buchang_lingqu":1,"special_skill":(["tsword":1,]),"last_examine":(["all_quest":0,"mud_age":43657,"experience":0,"potential":32051,"time":1654120803,"combat_exp":41951,]),"shen":0,"character":"阴险狡诈","str":13,"learned_points":31798,"title":"桃花岛第三代传人","kar":30,"startroom":"/d/baituo/dating","shen_type":0,"con":24,"water":99,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"family":(["title":"传人","master_name":"曲灵风","generation":3,"enter_time":1654064153,"privs":0,"family_name":"桃花岛","master_id":"qu lingfeng",]),"int":30,"month":2,"last_day_sign":1654089635,"born":"西域人氏","can_speak":1,"day_sign_times":1,"race":"人类","mud_age":43733,"dex":13,"name":"欧阳呕心","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":99,"potential":32051,"eff_jing":200,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"ihmijflc!ojeccihcdidcjoa`ebe``ebghkbljeff","purename":"呕心","id":"a00003","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":"欧阳","last_save":1654120577,"combat_exp":41951,"max_jing":200,"attitude":"peaceful","neili":786,"maintask":2,"birthday":1653821219,"max_neili":516,"age":14,])
+skills (["force":68,"sword":67,"yeqiu-quan":3,"luoying-xinfa":72,"cuff":3,])
+learned (["force":4685,"sword":661,"luoying-xinfa":2349,])
+skill_map (["force":"luoying-xinfa",])
+autoload ({"/common/bind_obj/clone/gift/tianxiang1:5","/common/bind_obj/clone/vip/dan_jiuzhuan:10","/common/bind_obj/clone/gift/putao1:3","/clone/shizhe/putao:1","/clone/maintask/obj/yueka","/clone/maintask/obj/tianxiang:1",})
+at_time 1654120876
+ban_say_msg ""

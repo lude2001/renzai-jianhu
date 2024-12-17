@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"zjvip":(["buchang220525":1,"buchang220523":1,"times":1731211,"last_vip_set":1654120791,]),"last_read_news":1653259773,"per":10,"taptap3":1,"env":(["wimpy":60,]),"shen":0,"character":"光明磊落","skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"lilian":(["start":1654100982,]),"con":24,"eff_qi":669,"unit":"位","max_qi":669,"family":(["title":"传人","privs":0,"enter_time":1653259864,"generation":3,"master_name":"摘星子","family_name":"星宿派","master_id":"zhaixing zi",]),"registered":1,"last_cancel_quest_time":-28800,"int":30,"month":9,"can_speak":1,"race":"人类","day_sign_times":3,"name":"帝俊","dex":13,"jingli":60,"eff_jing":260,"potential":443469,"sec_id":"`bdonikm!elkifkfjdfneankmhoheibodlhbgclem","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"帝俊","jing":260,"tianfu_point":2,"surname":0,"combat_exp":641656,"learned_experience":5140,"max_jing":260,"neili":113,"experience":5140,"max_neili":113,"chuwudai":1,"online_time":441914,"qi":64,"class":"fighter","born_family":"中原人氏","buchang_lingqu":1,"javadoing":1,"special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":385046,"experience":5140,"potential":440336,"time":1654034403,"combat_exp":524370,]),"weihu":(["buchang220529":1,]),"str":13,"score":29981,"learned_points":132186,"title":"星宿派第三代传人","kar":21,"startroom":"/d/city/kedian","water":92,"born":"中原人氏","last_day_sign":1653980759,"mud_age":464569,"holiday":([]),"food":92,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"id":"c18684509939","gender":"男性","last_ip":"103.45.155.4","last_save":1654120487,"attitude":"peaceful","maintask":2,"birthday":1653259772,"balance":172929,"age":15,])
+skills (["force":81,"guixi-gong":16,"strike":70,"zhuihun-jian":180,"cuff":3,"martial-cognize":34,"dodge":52,"yeqiu-quan":3,"literate":301,"unarmed":52,])
+learned (["force":3816,"guixi-gong":28,"martial-cognize":260,"dodge":1916,"literate":744,"strike":2573,"unarmed":1041,])
+skill_map (["force":"guixi-gong","cuff":"yeqiu-quan",])
+autoload ({"/clone/money/coin:28654","/common/bind_obj/clone/gift/tianxiang1:5","/common/bind_obj/clone/gift/putao1:3","/clone/misc/baibao","/clone/shizhe/huxindan9:98","/clone/shizhe/putao:1","/u/cx/luck/lingzhi","/u/cx/luck/lingzhi","/u/cx/luck/lingzhi","/u/cx/luck/lingzhi","/u/cx/luck/lingzhi","/u/cx/luck/lingzhi","/clone/gift/dan_chongmai2:8","/u/cx/luck/lingzhi","/clone/gift/dan_chongmai3:2","/clone/gift/dan_chongmai1:5","/u/cx/luck/putao:12","/u/cx/luck/daputao:8",})
+at_time 1654120790
+ban_to 1654120762
+ban_say_msg "系统禁止你送出信息"

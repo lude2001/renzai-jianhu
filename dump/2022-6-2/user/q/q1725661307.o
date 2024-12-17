@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1654120702,]),"online_time":84690,"qi":144,"disable_type":" <睡梦中>","per":10,"last_read_news":1653931076,"born_family":"中原人氏","env":(["wimpy":60,]),"last_sleep":1654088493,"special_skill":(["lucky":1,]),"javadoing":1,"weihu":(["buchang220530":1,]),"last_examine":(["all_quest":0,"mud_age":46095,"experience":0,"potential":82980,"time":1654034403,"combat_exp":31536,]),"shen":0,"character":"光明磊落","str":13,"score":1827,"learned_points":9999,"title":"普通百姓","kar":12,"level":1,"shen_type":0,"max_jingli":4,"con":24,"water":204,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"mycmds":(["fight":(["b4":"绝技#n#一:aa","b3":"吃护#n#心丹:use huxin dan","b2":"拉弓#n#射箭:shot","b1":"拉弓#n#射箭:shot",]),]),"last_cancel_quest_time":-28800,"int":30,"month":4,"born":"中原人氏","can_speak":1,"last_day_sign":1654106968,"race":"人类","day_sign_times":2,"mud_age":97389,"holiday":([]),"jingli":4,"dex":13,"name":"天道","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":204,"potential":95135,"eff_jing":200,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"bemkgddd!nncode`oimabcnlhkmkifigiemieabfc","purename":"天道","id":"q1725661307","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":0,"last_save":1654120374,"combat_exp":66055,"max_jing":200,"attitude":"peaceful","neili":5,"birthday":1653931074,"max_neili":5,"balance":30000,"combat":(["MKS":3,]),"chuwudai":1,"age":14,])
+skills (["claw":1,"finger":2,"force":68,"yeqiu-quan":3,"dodge":17,"strike":8,"literate":34,"cuff":4,"unarmed":18,])
+learned (["claw":0,"finger":0,"force":2692,"dodge":217,"strike":9,"literate":1180,"unarmed":32,"cuff":20,])
+autoload ({"/clone/money/coin:10779","/clone/gift/gift_duanwu:1","/clone/misc/baibao","/common/bind_obj/clone/vip/dan_chongmai2:50","/clone/money/gold:1","/clone/suit/new/new_cloth","/clone/money/silver:1",})
+at_time 1654120670
+ban_to 1654120678
+ban_say_msg "系统禁止你送出信息"

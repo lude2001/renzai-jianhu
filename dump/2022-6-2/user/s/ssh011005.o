@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+ghost 1
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":436,"zjvip":(["times":0,"last_vip_set":1654089340,]),"qi":1,"last_read_news":1654088899,"per":10,"born_family":"段氏皇族","env":(["brief":0,"wimpy":60,]),"special_skill":(["ghost":1,]),"die_protect":(["duration":7200,"last_dead":1654089350,]),"shen":0,"repeat":(["name":"guan bing","quest_guan bing":1,"time":1654088997,]),"character":"光明磊落","str":13,"score":0,"title":"普通百姓","kar":14,"shen_type":0,"startroom":"/d/dali/wangfugate","con":24,"water":188,"eff_qi":1,"unit":"位","max_qi":420,"registered":1,"int":30,"month":0,"can_speak":1,"born":"大理人氏","race":"人类","mud_age":441,"name":"段打工魂否","dex":13,"eff_jing":1,"potential":99,"food":188,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"`gkhbebe!ekohgeadhhonelnolagaoooi``ighdbo","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":0,"id":"ssh011005","purename":"打工魂否","jing":1,"gender":"男性","last_ip":"103.45.155.4","surname":"段","combat_exp":0,"last_save":1654089201,"max_jing":200,"quest_give":(["time":1654088995,"number":({"huanan hu","dao ke","guan bing","long nv",}),]),"attitude":"peaceful","birthday":1654088897,"combat":(["last_die":"被霍先生杀死了","dietimes":1,]),"age":14,])
+skills (["yeqiu-quan":3,"cuff":3,])
+autoload ({})
+at_time 1654089334
+ban_say_msg ""

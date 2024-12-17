@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":2570423,"last_vip_set":1654119667,]),"online_time":1612,"study_skill":1,"qi":595,"per":10,"last_read_news":1654097521,"born_family":"慕容世家","class":"fighter","env":(["wimpy":60,]),"special_skill":(["youth":1,]),"shen":0,"character":"光明磊落","str":14,"learned_points":45,"title":"峨嵋派第五代传人","skill_point":3,"kar":23,"level":10,"startroom":"/d/yanziwu/cuixia","shen_type":0,"max_jingli":30,"con":24,"water":235,"eff_qi":596,"unit":"位","max_qi":616,"registered":1,"family":(["title":"传人","master_name":"苏梦清","generation":5,"enter_time":1654098477,"privs":0,"family_name":"峨嵋派","master_id":"su mengqing",]),"int":30,"month":0,"last_day_sign":1654119375,"born":"江南人氏","can_speak":1,"day_sign_times":1,"race":"人类","mud_age":1911,"dex":13,"name":"慕容慕容天","jingli":30,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":235,"potential":32325,"eff_jing":205,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"hfbeaheg!dammdcafiilmglnkfconmnkekjla`bcn","purename":"慕容天","id":"w4088","jing":204,"gender":"女性","last_ip":"103.45.155.4","tianfu_point":0,"surname":"慕容","tianfu":(["str":1,]),"last_save":1654119366,"combat_exp":42216,"max_jing":210,"attitude":"peaceful","neili":50,"maintask":2,"birthday":1654097519,"max_neili":50,"age":14,])
+skills (["force":7,"yeqiu-quan":3,"sword":8,"dodge":1,"cuff":3,])
+learned (["force":45,"sword":23,"dodge":2,])
+autoload ({})
+at_time 1654119630
+ban_say_msg ""

@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":7060,"zjvip":(["times":0,"last_vip_set":1654120878,]),"qi":600,"last_read_news":1654110400,"per":10,"born_family":"欧阳世家","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":10402,"experience":0,"potential":3598,"time":1654120804,"combat_exp":3651,]),"shen":0,"character":"光明磊落","str":13,"title":"普通百姓","kar":18,"shen_type":0,"startroom":"/d/baituo/dating","con":24,"water":225,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"int":30,"month":0,"can_speak":1,"born":"西域人氏","race":"人类","mud_age":10478,"name":"欧阳陛下","dex":13,"eff_jing":200,"potential":3617,"food":225,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"g`dhmcbc!cijgeifcahcglhojaohaoflnhjmfnhda","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"g1810942007","purename":"陛下","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":"欧阳","combat_exp":3678,"last_save":1654120575,"max_jing":200,"attitude":"peaceful","birthday":1654110399,"age":14,])
+skills (["yeqiu-quan":3,"cuff":3,])
+autoload ({})
+at_time 1654110486
+ban_say_msg ""

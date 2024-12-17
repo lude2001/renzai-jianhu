@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":2580534,"last_vip_set":1654120812,]),"online_time":2950,"study_skill":1,"qi":119,"per":10,"last_read_news":1654106401,"born_family":"段氏皇族","class":"royal","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"shen":0,"last_examine":(["mud_age":3862,"all_quest":0,"potential":31958,"experience":0,"time":1654120804,"combat_exp":41859,]),"character":"狡黠多变","str":13,"learned_points":31789,"title":"段氏皇族第十六代传人","kar":21,"level":1,"shimen":(["today":0,"last":1654109098,]),"startroom":"/d/dali/wangfugate","shen_type":0,"max_jingli":3,"con":24,"water":230,"eff_qi":120,"unit":"位","max_qi":675,"registered":1,"family":(["title":"传人","master_name":"段正淳","generation":16,"enter_time":1654106687,"privs":0,"family_name":"段氏皇族","master_id":"duan zhengchun",]),"int":30,"month":0,"born":"大理人氏","can_speak":1,"last_day_sign":1654106576,"out_family":1,"race":"人类","day_sign_times":1,"mud_age":3862,"dex":13,"name":"段和誉","jingli":3,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":230,"potential":31958,"eff_jing":201,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"`ifjeih`!niioolokjfanndj`bamnfhgdcabijbkf","quest":(["family":"段氏皇族","master_name":"段正淳","time":1654109098,"type":"kill","place":"灵州","level":0,"limit":1654109839,"name":"red马昉","id":"ma fang","master_id":"duan zhengchun",]),"purename":"和誉","id":"mirinda","jing":201,"gender":"男性","last_ip":"103.45.155.4","surname":"段","last_save":1654112408,"combat_exp":41859,"max_jing":201,"attitude":"peaceful","neili":293,"maintask":2,"birthday":1654106400,"max_neili":227,"age":14,])
+skills (["force":75,"finger":11,"yeqiu-quan":3,"duanshi-xinfa":60,"literate":75,"cuff":3,])
+learned (["force":0,"finger":56,"duanshi-xinfa":217,"literate":1946,])
+skill_map (["force":"duanshi-xinfa",])
+autoload ({})
+at_time 1654113778
+ban_say_msg ""

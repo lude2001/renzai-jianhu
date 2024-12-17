@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"zjvip":(["times":2537295,"last_vip_set":1654120858,]),"online_time":31536,"skill_dian":(["yeqiu-quan":3,]),"qi":12,"per":30,"last_read_news":1654065864,"born_family":"中原人氏","class":"bonze","env":(["brief":0,"keep_idle":0,"wimpy":60,]),"javadoing":1,"special_skill":(["mystery":1,]),"last_examine":(["all_quest":0,"mud_age":38190,"experience":0,"potential":42370,"time":1654120803,"combat_exp":42617,]),"shen":0,"character":"心狠手辣","str":30,"score":23,"learned_points":30692,"title":"血刀门第七代传人","shenyi":(["bianxing":1,]),"skill_point":0,"kar":20,"level":10,"shen_type":0,"startroom":"/d/city/kedian","max_jingli":51,"lilian":(["start":1654066241,]),"con":24,"water":183,"eff_qi":616,"unit":"位","max_qi":616,"registered":1,"family":(["title":"传人","master_name":"善勇","generation":7,"enter_time":1654066089,"privs":0,"family_name":"血刀门","master_id":"shan yong",]),"mycmds":(["fight":(["b1":"胡搅#n#蛮缠:perform cuff.mancan",]),]),"int":13,"month":1,"last_day_sign":1654084676,"task_work":1,"born":"中原人氏","can_speak":1,"day_sign_times":1,"race":"人类","mud_age":38245,"dex":13,"name":"剑痴","jingli":51,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":183,"potential":42370,"eff_jing":210,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"oceafkoj!kefel`nmjke`lbbbjbjanmbcd`fjdgig","purename":"剑痴","id":"a439shushi","jing":210,"gender":"女性","last_ip":"103.45.155.4","tianfu_point":1,"surname":0,"last_save":1654120556,"combat_exp":42617,"max_jing":210,"attitude":"peaceful","neili":50,"maintask":3,"birthday":1654065862,"combat":([]),"max_neili":50,"shenyi_zhengrong":1654086521,"age":14,])
+skills (["force":50,"dodge":27,"yeqiu-quan":6,"parry":26,"unarmed":2,"mizong-neigong":76,"shenkong-xing":27,"lamaism":26,"blade":12,"cuff":3,])
+learned (["force":2058,"dodge":0,"parry":676,"unarmed":7,"mizong-neigong":4860,"shenkong-xing":55,"lamaism":618,"blade":14,])
+skill_map (["force":"mizong-neigong","parry":"yeqiu-quan","cuff":"yeqiu-quan",])
+autoload ({"/clone/money/coin:514","/clone/maintask/obj/jiuzhuan:1","/clone/maintask/obj/tianxiang:1","/clone/shizhe/huxindan9:99",})
+at_time 1654086908
+ban_say_msg ""

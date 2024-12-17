@@ -1,0 +1,16 @@
+
+inherit ROOM;
+
+void create()
+{
+	set("short", "武林四街");
+	set("long", "这是一条宽阔的青石街道。");
+	set("outdoors", "hell");
+	set("exits", ([
+		"north" : "/data/home/a/aad1123/hell/xmw",
+		"west" : __DIR__"wulinsi5",
+		"south" : __DIR__"wulinsi7",
+	]));
+	set("price_build", 1000);
+	setup();
+}

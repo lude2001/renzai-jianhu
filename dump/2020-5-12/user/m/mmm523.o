@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"zjvip":(["times":2528328,"last_vip_set":1589268902,]),"last_read_news":1589205014,"per":10,"env":(["wimpy":60,]),"shen":183,"character":"光明磊落","gongxian":905,"shen_type":0,"lilian":(["start":1589205268,]),"con":24,"eff_qi":627,"unit":"位","max_qi":662,"family":(["title":"传人","privs":0,"enter_time":1589205039,"generation":4,"master_name":"尹志平","family_name":"全真教","master_id":"yin zhiping",]),"registered":1,"mycmds":(["fight":(["b3":"吃护$br#心丹:use huxin dan","b2":"内力$br#回气:exert recover","b1":"胡搅$br#蛮缠:perform parry.mancan",]),]),"last_cancel_quest_time":1589222131,"int":13,"month":0,"out_family":1,"can_speak":1,"race":"人类","jingli":0,"name":"溜一溜","dex":13,"eff_jing":200,"potential":130541,"sec_id":"wt77BTUa0YeR6","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"溜一溜","jing":200,"surname":0,"combat_exp":281506,"max_jing":200,"neili":186,"experience":2795,"chuwudai":1,"max_neili":186,"online_time":14572,"qi":626,"quest_count":933,"class":"taoist","born_family":"中原人士","special_skill":(["lucky":1,]),"die_protect":(["duration":7200,"last_dead":1589216299,]),"str":30,"score":32623,"learned_points":29997,"title":"全真教第四代传人","kar":28,"shimen":(["lun":15,"today":915,"last":1589222913,]),"startroom":"/d/city/wumiao","water":400,"born":"中原人士","mud_age":14888,"food":400,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":45095,"id":"mmm523","gender":"男性","last_ip":"39.101.179.36","last_save":1589223306,"attitude":"peaceful","maintask":2,"birthday":1589205013,"combat":(["MKS":936,"last_die":"被red淳于操方杀害了","dietimes":1,]),"age":14,])
+skills (["force":63,"quanzhen-xinfa":62,"cuff":3,"shenzhaojing":50,"yeqiu-quan":3,"parry":60,])
+learned (["force":2290,"yeqiu-quan":31,"parry":855,"quanzhen-xinfa":1532,])
+skill_map (["force":"quanzhen-xinfa","parry":"yeqiu-quan","cuff":"yeqiu-quan",])
+autoload ({"/clone/vip/dan_chongmai1:3","/clone/misc/baibao","/clone/vip/dan_chongmai2:1","/clone/shizhe/huxindan9:64","/clone/vip/dan_chongmai3:2","/clone/money/silver:900","/d/shenlong/obj/hua5:2","/clone/vip/putao:15","/clone/money/cash:45",})
+at_time 1589224474
+ban_say_msg ""

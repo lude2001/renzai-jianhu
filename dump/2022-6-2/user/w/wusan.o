@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":31712,"zjvip":(["times":0,"last_vip_set":1654120791,]),"qi":30,"last_read_news":1654083051,"per":10,"born_family":"中原人氏","env":(["wimpy":60,]),"javadoing":1,"special_skill":(["lucky":1,]),"shen":0,"character":"光明磊落","str":13,"score":26,"title":"普通百姓","kar":19,"shen_type":0,"con":24,"water":165,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"int":30,"month":1,"last_day_sign":1654083563,"can_speak":1,"born":"中原人氏","day_sign_times":1,"race":"人类","mud_age":37740,"name":"吴雷","dex":13,"eff_jing":200,"potential":2352,"food":165,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"glnjckmk!innnmmmd`hoijcjofdlodl`blbonm``m","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"wusan","purename":"吴雷","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":0,"combat_exp":2637,"last_save":1654120489,"max_jing":200,"attitude":"peaceful","birthday":1654083049,"age":14,])
+skills (["force":3,"dodge":3,"yeqiu-quan":3,"unarmed":3,"cuff":3,])
+learned (["force":16,"dodge":3,"unarmed":8,])
+autoload ({"/clone/money/coin:557",})
+at_time 1654083940
+ban_say_msg ""

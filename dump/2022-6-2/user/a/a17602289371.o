@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"online_time":312,"zjvip":(["times":0,"last_vip_set":1654167547,]),"qi":420,"last_read_news":1654167235,"per":10,"class":"alchemist","born_family":"段氏皇族","env":(["wimpy":60,]),"special_skill":(["ghost":1,]),"shen":0,"character":"阴险狡诈","str":13,"learned_points":210,"title":"逍遥派第四代传人","kar":15,"shen_type":0,"startroom":"/d/dali/wangfugate","con":24,"water":202,"eff_qi":420,"unit":"位","max_qi":420,"family":(["title":"传人","privs":0,"enter_time":1654167465,"generation":4,"master_name":"冯阿三","family_name":"逍遥派","master_id":"feng asan",]),"registered":1,"int":30,"month":0,"can_speak":1,"born":"大理人氏","race":"人类","mud_age":312,"name":"段小狼","dex":13,"eff_jing":200,"potential":30099,"food":202,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"ekea`n`k!ibfgcclfk`ecldh`cjgj`gbfgofaiejo","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"a17602289371","purename":"小狼","jing":200,"gender":"女性","last_ip":"103.45.155.4","surname":"段","combat_exp":40000,"last_save":1654167235,"max_jing":200,"attitude":"peaceful","maintask":2,"birthday":1654167233,"age":14,])
+skills (["force":5,"dodge":13,"yeqiu-quan":3,"strike":14,"cuff":3,])
+learned (["force":0,"dodge":157,"strike":13,])
+autoload ({"/clone/maintask/obj/tianxiang:1","/clone/maintask/obj/yueka","/d/dali/obj/shanchahua",})
+at_time 1654167546
+ban_say_msg ""

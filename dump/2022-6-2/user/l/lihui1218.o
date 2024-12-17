@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1654120401,]),"qi":420,"per":10,"born_family":"段氏皇族","env":(["wimpy":60,]),"special_skill":(["ghost":1,]),"shen":0,"character":"狡黠多变","str":13,"title":"普通百姓","kar":21,"shen_type":0,"startroom":"/d/dali/wangfugate","con":24,"water":230,"eff_qi":420,"unit":"位","max_qi":420,"registered":1,"int":30,"month":0,"can_speak":1,"born":"大理人氏","race":"人类","mud_age":0,"name":"段月坠","dex":13,"eff_jing":200,"potential":99,"food":230,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"chhli`ak!`mbbeofmia`caibmmojhmabffmed`c`k","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"lihui1218","purename":"月坠","jing":200,"gender":"女性","last_ip":"103.45.155.4","surname":"段","max_jing":200,"attitude":"peaceful","birthday":1654120400,"age":14,])
+skills (["yeqiu-quan":30,"cuff":30,])
+autoload ({})
+ban_say_msg ""

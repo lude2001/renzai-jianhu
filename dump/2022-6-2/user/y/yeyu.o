@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1654081568,]),"online_time":9950,"qi":35,"per":10,"last_read_news":1654058482,"born_family":"中原人氏","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"javadoing":1,"shen":0,"character":"光明磊落","str":13,"score":388,"title":"普通百姓","kar":27,"shen_type":0,"con":24,"water":230,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"int":30,"month":0,"born":"中原人氏","can_speak":1,"race":"人类","mud_age":11763,"dex":13,"name":"黄少天","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":230,"potential":100,"eff_jing":200,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"iddfonjb!hiihjgfhgoajhgcnjg`kkgc`emljdhmi","purename":"黄少天","id":"yeyu","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":0,"last_save":1654075534,"combat_exp":5740,"max_jing":200,"attitude":"peaceful","birthday":1654058481,"age":14,])
+skills (["force":10,"yeqiu-quan":3,"dodge":10,"cuff":3,"unarmed":10,])
+learned (["force":92,"dodge":7,"unarmed":42,])
+autoload ({"/clone/money/coin:8524",})
+at_time 1654073820
+ban_say_msg ""

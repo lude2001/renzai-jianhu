@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"zjvip":(["times":0,"last_vip_set":1654120866,]),"last_read_news":1654088509,"per":10,"env":(["wimpy":60,]),"shen":0,"character":"光明磊落","skill_point":3,"level":10,"shen_type":0,"max_jingli":30,"con":20,"eff_qi":631,"unit":"位","max_qi":634,"family":(["title":"传人","privs":0,"enter_time":1654092693,"generation":4,"master_name":"尹志平","family_name":"全真教","master_id":"yin zhiping",]),"registered":1,"mycmds":(["fight":(["b5":"内力#n#疗疾:exert dispel","b4":"内力#n#疗伤:exert heal","b3":"内力#n#回气:exert recover","b2":"拉弓#n#射箭:shot","b1":"胡搅#n#蛮缠:perform parry.mancan","b6":"内力#n#回精:exert regenerate",]),]),"int":20,"month":1,"can_speak":1,"day_sign_times":1,"race":"人类","jingli":30,"name":"泰雨寒","dex":20,"eff_jing":210,"potential":112306,"sec_id":"ieikmkne!ndcffmdhgmlh`ndn`oianhhhcibhdijb","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"泰雨寒","jing":210,"tianfu_point":1,"surname":0,"combat_exp":42658,"max_jing":210,"neili":102,"max_neili":102,"online_time":22670,"qi":39,"class":"taoist","born_family":"中原人氏","javadoing":1,"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":28649,"experience":0,"potential":112306,"time":1654120804,"combat_exp":42658,]),"weihu":(["buchang220530":1,]),"str":20,"score":24,"learned_points":102704,"title":"全真教第四代传人","kar":18,"startroom":"/d/city/kedian","water":293,"last_day_sign":1654088561,"born":"中原人氏","mud_age":28713,"food":293,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"id":"qq0931973426","gender":"男性","last_ip":"103.45.155.4","last_save":1654120556,"attitude":"peaceful","maintask":2,"birthday":1654088508,"age":14,])
+skills (["force":76,"quanzhen-xinfa":76,"cuff":3,"sword":75,"dodge":70,"yeqiu-quan":3,"literate":60,"parry":75,"unarmed":75,])
+learned (["force":0,"sword":381,"dodge":4319,"literate":838,"parry":4601,"quanzhen-xinfa":0,"unarmed":5704,])
+skill_map (["force":"quanzhen-xinfa","parry":"yeqiu-quan",])
+autoload ({"/clone/money/coin:603","/clone/maintask/obj/yueka","/common/bind_obj/clone/vip/dan_chongmai2:50",})
+at_time 1654097368
+ban_say_msg ""

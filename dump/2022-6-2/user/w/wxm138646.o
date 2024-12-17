@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"online_time":14512,"zjvip":(["times":2572509,"last_vip_set":1654120846,]),"qi":36,"last_read_news":1654101159,"per":10,"born_family":"中原人氏","env":(["wimpy":60,]),"javadoing":1,"special_skill":(["tblade":1,]),"last_examine":(["all_quest":0,"mud_age":19643,"experience":0,"potential":42381,"time":1654120805,"combat_exp":42592,]),"shen":0,"character":"光明磊落","str":13,"score":21,"learned_points":26248,"title":"关外胡家第八代传人","kar":24,"shen_type":0,"con":24,"water":157,"eff_qi":600,"unit":"位","max_qi":600,"family":(["title":"传人","privs":0,"enter_time":1654101339,"generation":8,"master_name":"胡斐","family_name":"关外胡家","master_id":"hu fei",]),"registered":1,"int":30,"month":0,"task_work":1,"last_day_sign":1654101209,"can_speak":1,"born":"中原人氏","day_sign_times":1,"race":"人类","mud_age":19687,"name":"木窝尖","dex":13,"eff_jing":200,"potential":42381,"food":157,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"`ckdkbki!cdihnc`mbmfdd`j`cbbjhfaankcinkkg","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"wxm138646","purename":"木窝尖","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":0,"combat_exp":42592,"last_save":1654120519,"max_jing":200,"attitude":"peaceful","maintask":3,"birthday":1654101157,"age":14,])
+skills (["force":69,"throwing":67,"dodge":14,"yeqiu-quan":3,"parry":31,"strike":32,"unarmed":3,"blade":39,"cuff":30,])
+learned (["force":2027,"throwing":726,"dodge":72,"parry":78,"strike":102,"unarmed":0,"cuff":936,"blade":196,])
+autoload ({"/clone/money/coin:460","/clone/maintask/obj/jiuzhuan:1","/clone/maintask/obj/tianxiang:1","/clone/shizhe/putao:1",})
+at_time 1654102174
+ban_say_msg ""

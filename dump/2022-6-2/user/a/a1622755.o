@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"online_time":25982,"zjvip":(["times":2559955,"last_vip_set":1654120702,]),"qi":73,"last_read_news":1654088467,"per":10,"quest_count":47,"class":"fighter","born_family":"中原人氏","env":(["wimpy":40,]),"javadoing":1,"special_skill":(["lucky":1,]),"weihu":(["buchang220530":1,]),"shen":-1176,"character":"心狠手辣","str":21,"score":2917,"learned_points":1300,"title":"星宿派第三代传人","gongxian":46,"kar":23,"shimen":(["lun":1,"today":46,"last":1654089545,]),"quest_count_check":1,"shen_type":0,"lilian":(["start":1654088912,]),"con":20,"water":287,"eff_qi":591,"unit":"位","max_qi":650,"gift":(["jiuzhuan":1,"xiandan":1,]),"family":(["title":"传人","privs":0,"enter_time":1654088540,"generation":3,"master_name":"阿紫","family_name":"星宿派","master_id":"a zi",]),"registered":1,"int":20,"month":1,"out_family":1,"last_day_sign":1654088717,"task_work":1,"can_speak":1,"born":"中原人氏","day_sign_times":1,"race":"人类","mud_age":32072,"jingli":0,"name":"鬼蓝","dex":20,"eff_jing":200,"potential":142305,"food":287,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"mj`jkm`i!hiddmchjmnkmgmklmj`aobodleajjkgh","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":759,"id":"a1622755","purename":"鬼蓝","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":0,"combat_exp":110991,"last_save":1654120374,"max_jing":200,"attitude":"peaceful","magic_points":1534,"neili":300,"experience":0,"maintask":4,"birthday":1654088465,"combat":(["MKS":47,"eatman":4,]),"max_neili":150,"chuwudai":1,"age":14,])
+skills (["force":33,"dodge":16,"yeqiu-quan":3,"unarmed":16,"cuff":3,])
+learned (["force":793,"yeqiu-quan":2,"dodge":269,"unarmed":229,])
+skill_map (["cuff":"yeqiu-quan",])
+autoload ({"/clone/money/coin:48184","/clone/vip/putao:2","/clone/gift/fushougao","/clone/money/silver:159","/clone/cloth/cuttonp","/clone/maintask/obj/bianxingdan","/clone/shizhe/huxindan9:96","/clone/misc/baibao",})
+at_time 1654120670
+ban_to 1654120678
+ban_say_msg "系统禁止你送出信息"

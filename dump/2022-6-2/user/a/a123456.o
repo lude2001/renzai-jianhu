@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":2463969,"last_vip_set":1654120759,]),"study_skill":1,"per":10,"last_read_news":1653919230,"env":(["sign5":"打坐","wimpy":60,]),"shen":0,"character":"光明磊落","skill_point":1,"level":3,"shen_type":0,"max_jingli":9,"lilian":(["start":1654055727,]),"con":25,"eff_qi":632,"unit":"位","max_qi":692,"registered":1,"family":(["title":"传人","master_name":"冯阿三","generation":4,"enter_time":1653919934,"privs":0,"family_name":"逍遥派","master_id":"feng asan",]),"mycmds":(["fight":(["b3":"胡搅#n#蛮缠:perform cuff.mancan","b2":"绝技#n#一:aa","b1":"内力#n#疗伤:exert heal",]),]),"int":31,"month":2,"out_family":1,"can_speak":1,"task_work":1,"race":"人类","day_sign_times":3,"jingli":9,"dex":13,"name":"无他","potential":78950,"eff_jing":203,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"egaal`nd!djnmaloc`mngbao`i`g`ecnajh`oednh","purename":"无他","jing":203,"surname":0,"combat_exp":76225,"max_jing":203,"magic_points":1561,"neili":277,"experience":0,"max_neili":277,"chuwudai":1,"online_time":48322,"qi":631,"born_family":"中原人氏","class":"alchemist","special_skill":(["lucky":1,]),"die_protect":(["duration":7200,"last_dead":1653995046,]),"last_examine":(["mud_age":14304,"all_quest":0,"potential":58356,"experience":0,"time":1654034403,"combat_exp":55769,]),"str":13,"score":13,"learned_points":3900,"title":"逍遥派第四代传人","kar":24,"shimen":(["today":0,"last":1653994457,]),"startroom":"/d/city/wumiao","water":230,"gift":(["jiuzhuan":1,"xiandan":1,"xisuidan":1,]),"born":"中原人氏","last_day_sign":1654083145,"mud_age":55861,"holiday":([]),"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":230,"weiwang":0,"quest":(["family":"逍遥派","master_name":"苏星河","time":1653994457,"type":"kill","place":"佛山一带","level":0,"limit":1653995379,"name":"red秦佰貌","id":"qin baimao","master_id":"su xinghe",]),"id":"a123456","gender":"男性","last_ip":"103.45.155.4","last_save":1654120438,"attitude":"peaceful","maintask":3,"birthday":1653919228,"combat":(["last_die":"被red秦佰貌刺死了","dietimes":1,]),"age":14,])
+skills (["force":34,"yeqiu-quan":3,"dodge":3,"feiyan-zoubi":33,"xiaoyao-xinfa":35,"cuff":3,"unarmed":2,])
+learned (["force":0,"dodge":7,"feiyan-zoubi":1067,"xiaoyao-xinfa":0,"unarmed":3,])
+skill_map (["force":"xiaoyao-xinfa","dodge":"feiyan-zoubi","cuff":"yeqiu-quan",])
+autoload ({"/clone/shizhe/huxindan9:99","/clone/money/silver:1","/d/bangpai/obj/grass:3","/clone/money/coin:90","/clone/misc/baibao",})
+at_time 1654083182
+ban_to 1653920089
+ban_say_msg "系统禁止你送出信息"

@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"online_time":4290,"zjvip":(["times":2588601,"last_vip_set":1654102432,]),"qi":434,"last_read_news":1654097528,"per":10,"class":"alchemist","born_family":"段氏皇族","env":(["wimpy":60,]),"buchang_lingqu":1,"javadoing":1,"special_skill":(["ghost":1,]),"weihu":(["buchang220530":1,]),"shen":0,"character":"狡黠多变","str":17,"score":42,"learned_points":29290,"title":"逍遥派第四代传人","skill_point":2,"kar":18,"level":7,"shen_type":0,"startroom":"/d/dali/wangfugate","max_jingli":21,"lilian":(["start":1654102302,]),"con":28,"fuben_caoren":(["count":1,"last_time":1654098678,]),"water":126,"eff_qi":434,"unit":"位","max_qi":434,"gift":(["jiuzhuan":11,"unknowdan":4,"xiandan":4,"xisuidan":4,"shenliwan":4,]),"family":(["title":"传人","privs":0,"enter_time":1654098819,"generation":4,"master_name":"冯阿三","family_name":"逍遥派","master_id":"feng asan",]),"registered":1,"int":34,"month":0,"task_work":1,"last_day_sign":1654097549,"can_speak":1,"born":"大理人氏","day_sign_times":1,"race":"人类","mud_age":4876,"jingli":21,"name":"段段摆烂哥","dex":17,"eff_jing":202,"potential":241907,"food":206,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"ndmmehdn!jfgojlfjjgjjcmjielmmhablkjiiogkl","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"ch1832353740","purename":"段摆烂哥","jing":202,"gender":"男性","last_ip":"103.45.155.4","surname":"段","combat_exp":42929,"last_save":1654102129,"max_jing":202,"attitude":"peaceful","magic_points":15977,"neili":85,"maintask":3,"birthday":1654097526,"chuwudai":1,"max_neili":85,"age":14,])
+skills (["force":53,"dodge":53,"yeqiu-quan":3,"strike":50,"parry":50,"feiyan-zoubi":51,"literate":5,"xiaoyao-xinfa":50,"blade":50,"unarmed":4,"cuff":3,])
+learned (["force":642,"dodge":236,"strike":1860,"parry":1863,"feiyan-zoubi":1217,"literate":25,"xiaoyao-xinfa":1575,"blade":1370,"unarmed":21,])
+autoload ({"/clone/money/coin:1154","/clone/shizhe/huxindan9:99","/clone/misc/baibao",})
+at_time 1654102422
+ban_say_msg ""

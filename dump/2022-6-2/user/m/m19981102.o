@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":30040,"zjvip":(["times":0,"last_vip_set":1654120759,]),"qi":28,"last_read_news":1654030811,"per":10,"born_family":"中原人氏","env":(["wimpy":60,]),"javadoing":1,"special_skill":(["lucky":1,]),"weihu":(["buchang220530":1,]),"shen":0,"last_examine":(["mud_age":1839,"all_quest":0,"potential":82117,"experience":0,"time":1654034403,"combat_exp":2148,]),"character":"光明磊落","str":20,"score":74,"learned_points":10,"title":"普通百姓","kar":26,"shen_type":0,"con":20,"water":223,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"int":20,"month":1,"last_day_sign":1654030874,"can_speak":1,"born":"中原人氏","day_sign_times":1,"race":"人类","mud_age":36290,"name":"清河","dex":20,"eff_jing":200,"potential":82117,"food":223,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"`jbkbhoc!fefffgbcmjm`engoganbmfhmdgfnbkoi","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"m19981102","purename":"清河","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":0,"combat_exp":3121,"last_save":1654120438,"max_jing":200,"attitude":"peaceful","birthday":1654030809,"age":14,])
+skills (["force":5,"dodge":4,"yeqiu-quan":3,"unarmed":5,"cuff":3,])
+learned (["force":0,"dodge":12,"unarmed":13,])
+autoload ({"/clone/money/coin:1625","/common/bind_obj/clone/vip/dan_chongmai2:50",})
+at_time 1654087116
+ban_say_msg ""

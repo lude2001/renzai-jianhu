@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"online_time":1024,"zjvip":(["times":2591886,"last_vip_set":1654167547,]),"qi":606,"disable_type":" <睡梦中>","last_read_news":1654166278,"per":10,"class":"royal","born_family":"段氏皇族","env":(["wimpy":60,]),"last_sleep":1654166751,"special_skill":(["tsword":1,]),"shen":0,"character":"光明磊落","str":13,"learned_points":15,"title":"段氏皇族第十六代传人","kar":21,"shen_type":0,"startroom":"/d/dali/wangfugate","con":24,"water":202,"eff_qi":606,"unit":"位","max_qi":606,"family":(["title":"传人","privs":0,"enter_time":1654167023,"generation":16,"master_name":"段正淳","family_name":"段氏皇族","master_id":"duan zhengchun",]),"registered":1,"int":30,"month":0,"can_speak":1,"born":"大理人氏","race":"人类","mud_age":1024,"name":"段段嫦英","dex":13,"eff_jing":200,"potential":30099,"food":202,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"gnfaagen!djlgmekfcelajii`nceohconmiboibnl","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"sjh750828","purename":"段嫦英","jing":200,"gender":"女性","last_ip":"103.45.155.4","surname":"段","combat_exp":40000,"last_save":1654167238,"max_jing":200,"attitude":"peaceful","neili":20,"maintask":2,"birthday":1654166276,"max_neili":20,"age":14,])
+skills (["force":6,"sword":3,"yeqiu-quan":3,"cuff":3,])
+learned (["force":0,"sword":8,])
+autoload ({"/d/dali/obj/shanchahua","/d/dali/obj/xueli","/d/dali/obj/xueli","/d/dali/obj/xueli","/d/dali/obj/xueli","/d/dali/npc/obj/puercha","/clone/weapon/zhujian","/clone/weapon/changbian","/d/dali/obj/chahua1","/d/dali/obj/chahua8","/d/dali/obj/chahua9","/d/dali/obj/chahua10","/d/dali/obj/chahua5",})
+at_time 1654167542
+ban_say_msg ""

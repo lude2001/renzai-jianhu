@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({"hu yin","cao ren",})
+want_kills ({})
+conditions (["ill_dongshang":10,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["lingzhi_num":1,"times":2554220,"last_vip_set":1654167336,]),"study_skill":1,"per":10,"last_read_news":1654129466,"env":(["brief":0,"wimpy":60,]),"xidian":1,"taptap3":1,"last_sleep":1654130825,"shen":0,"character":"ĞÄºİÊÖÀ±","skill_point":1,"level":3,"shen_type":0,"max_jingli":13,"lilian":(["start":1654142208,]),"con":17,"fuben_caoren":(["count":1,"last_time":1654142121,]),"eff_qi":1260,"unit":"Î»","max_qi":1265,"registered":1,"family":(["title":"´«ÈË","master_name":"½ğÂÖ·¨Íõ","generation":2,"enter_time":1654132386,"privs":0,"family_name":"Ñ©É½ËÂ","master_id":"jinlun fawang",]),"mycmds":(["fight":(["b5":"¾ø¼¼#n#Ò»:aa","b4":"À­¹­#n#Éä¼ı:shot","b3":"ÁúÏó#n#»¤Ìå:exert force.shield","b2":"ÁúÏó#n#èóÒô:exert force.roar","b1":"ÁúÏó#n#Ö®Á¦:exert force.powerup",]),]),"int":19,"month":0,"can_speak":1,"task_work":1,"out_family":1,"day_item":(["lingzhi":(["last_time":1654142957,"times":1,]),]),"race":"ÈËÀà","day_sign_times":1,"dex":22,"name":"ÁøĞş³¾","jingli":13,"potential":180613,"eff_jing":204,"limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","×ó½Å","ÓÒ½Å",}),"sec_id":"hanla`nj!e``moiieodlfacmaejhigbiif`bcnonn","purename":"ÁøĞş³¾","jing":204,"tianfu_point":0,"surname":0,"combat_exp":42519,"max_jing":204,"neili":322,"magic_points":8573,"max_neili":322,"chuwudai":1,"online_time":7662,"qi":1259,"disable_type":" <Ë¯ÃÎÖĞ>","born_family":"ÖĞÔ­ÈËÊÏ","class":"bonze","special_skill":(["tstrike":1,]),"weihu":(["buchang220530":1,]),"str":30,"learned_points":113593,"title":"[1;33m»î·ğ[2;37;0m","kar":24,"shimen":(["today":0,"last":1654132650,]),"startroom":"/d/city/kedian","water":391,"gift":(["jiuzhuan":6,"unknowdan":2,"xiandan":4,"xisuidan":2,]),"born":"ÖĞÔ­ÈËÊÏ","last_day_sign":1654129475,"mud_age":9116,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":391,"id":"q2306899537","gender":"ÄĞĞÔ","last_ip":"103.45.155.4","last_save":1654166698,"attitude":"peaceful","maintask":3,"birthday":1654129465,"age":14,])
+skills (["force":76,"hand":60,"cuff":3,"mizong-neigong":76,"lamaism":104,"yeqiu-quan":3,"sword":27,"longxiang":70,"parry":1,"unarmed":1,])
+learned (["force":3345,"hand":3560,"sword":752,"longxiang":3239,"parry":1,"mizong-neigong":5356,"lamaism":3483,"unarmed":2,])
+skill_map (["force":"longxiang",])
+autoload ({"/clone/gift/dan_chongmai1:1",})
+at_time 1654167390
+ban_say_msg ""

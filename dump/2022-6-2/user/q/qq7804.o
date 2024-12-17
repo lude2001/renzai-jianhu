@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["lingzhi_num":1,"buchang220525":1,"times":1863382,"last_vip_set":1654167552,]),"online_time":597300,"qi":138,"per":10,"last_read_news":1653388420,"born_family":"中原人氏","class":"bonze","env":(["brief":0,"wimpy":60,]),"javadoing":1,"special_skill":(["lucky":1,]),"weihu":(["buchang220527":1,]),"shen":0,"last_examine":(["all_quest":0,"mud_age":592477,"experience":0,"potential":200000,"time":1654120804,"combat_exp":676286,]),"character":"光明磊落","str":13,"shen_record":0,"score":45019,"title":"少林派第四十一代传人","kar":17,"startroom":"/d/city/kedian","shen_type":0,"con":24,"water":159,"eff_qi":627,"unit":"位","max_qi":690,"registered":1,"family":(["title":"传人","master_name":"清法比丘","generation":41,"enter_time":1653388473,"privs":0,"family_name":"少林派","master_id":"qingfa biqiu",]),"last_cancel_quest_time":-28800,"int":30,"month":5,"born":"中原人氏","can_speak":1,"day_item":(["lingzhi":(["times":1,"last_time":1653922832,]),]),"race":"人类","mud_age":637324,"holiday":([]),"dex":13,"name":"空悟","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":159,"potential":200000,"eff_jing":240,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"medeiehi!hafkehmdfbgcnbkbnefbhmi`dak`njhi","purename":"悟空","id":"qq7804","jing":240,"gender":"男性","last_ip":"103.45.155.4","surname":0,"last_save":1654166369,"combat_exp":731469,"max_jing":240,"attitude":"peaceful","neili":100,"maintask":1,"birthday":1653388418,"max_neili":100,"age":16,"K_record":0,])
+skills (["force":51,"yeqiu-quan":3,"dodge":51,"chinese-anthem":200,"cuff":3,"unarmed":51,])
+learned (["force":1682,"dodge":543,"unarmed":1193,])
+autoload ({"/u/cx/luck/daputao:2","/clone/gift/dan_chongmai1:3","/u/cx/luck/putao:5","/clone/gift/hundunshi:2","/u/cx/luck/lingzhi","/clone/gift/dan_chongmai3:2","/u/cx/luck/lingzhi","/u/cx/luck/lingzhi","/u/cx/luck/tiancs","/u/cx/luck/lingzhi","/u/cx/luck/lingzhi","/u/cx/luck/lingzhi","/clone/gift/dan_chongmai2:2","/u/cx/luck/lingzhi","/common/bind_obj/clone/vip/putao1:4","/clone/gift/gift_duanwu:1","/clone/money/coin:18859",})
+at_time 1654166382
+ban_to 1654166323
+ban_say_msg "系统禁止你送出信息"

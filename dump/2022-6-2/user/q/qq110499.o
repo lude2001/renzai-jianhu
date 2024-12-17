@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":2550729,"last_vip_set":1654167699,"master":"cs666",]),"study_skill":1,"skill_dian":(["yueying-wubu":1,]),"last_read_news":1654126364,"per":30,"env":(["wimpy":60,]),"taptap3":1,"shen":49,"character":"光明磊落","p_master":(["qinmi":1,"name":"段洛","id":"cs666",]),"skill_point":5,"gongxian":54,"level":20,"shen_type":0,"max_jingli":65,"con":24,"eff_qi":747,"unit":"位","max_qi":747,"family":(["title":"传人","privs":0,"enter_time":1654126419,"generation":4,"master_name":"梅剑","family_name":"灵鹫宫","master_id":"mei jian",]),"registered":1,"mycmds":(["fight":(["b1":"胡搅#n#蛮缠:perform cuff.mancan",]),]),"last_cancel_quest_time":1654164246,"int":23,"month":0,"out_family":1,"can_speak":1,"task_work":1,"day_sign_times":1,"race":"人类","name":"苏锦儿","dex":24,"jingli":86,"eff_jing":221,"potential":175428,"sec_id":"`jmnheci!aidhchjencocnonhffdj`kbklfmjlbjl","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"苏锦儿","jing":221,"tianfu_point":2,"surname":0,"combat_exp":77955,"max_jing":221,"magic_points":6864,"neili":152,"experience":0,"max_neili":443,"chuwudai":1,"online_time":13662,"qi":747,"class":"dancer","born_family":"中原人氏","quest_count":57,"special_skill":(["lucky":1,]),"weihu":(["buchang220530":1,]),"die_protect":(["duration":7200,"last_dead":1654166776,]),"str":24,"score":730,"learned_points":61528,"title":"灵鹫宫第四代传人","kar":16,"shimen":(["lun":9,"today":54,"last":1654166547,]),"startroom":"/d/city/wumiao","water":312,"baishi_times":1,"gift":(["jiuzhuan":5,"unknowdan":4,"xiandan":3,"shenliwan":4,"xisuidan":4,]),"last_day_sign":1654126390,"born":"中原人氏","mud_age":17347,"food":312,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":701,"id":"qq110499","gender":"女性","last_ip":"103.45.155.4","last_save":1654167391,"attitude":"peaceful","maintask":4,"birthday":1654126362,"combat":(["MKS":59,"last_die":"被活活冻死了","dietimes":2,]),"age":14,"shenyi_zhengrong":1654156514,])
+skills (["force":75,"yueying-wubu":64,"hand":5,"lingjiu-xinfa":93,"cuff":3,"dodge":3,"yeqiu-quan":3,"literate":43,"unarmed":4,"xuanming-zhang":93,])
+learned (["force":4273,"yueying-wubu":2769,"hand":0,"lingjiu-xinfa":4574,"dodge":10,"yeqiu-quan":1,"literate":1562,"unarmed":7,])
+skill_map (["force":"lingjiu-xinfa","dodge":"yueying-wubu","cuff":"yeqiu-quan",])
+autoload ({"/clone/money/silver:1",})
+at_time 1654167458
+ban_say_msg ""

@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1654167543,]),"online_time":816,"qi":600,"per":10,"last_read_news":1654166548,"born_family":"段氏皇族","env":(["wimpy":60,]),"special_skill":(["self":1,]),"shen":0,"character":"狡黠多变","str":13,"title":"普通百姓","kar":12,"startroom":"/d/dali/wangfugate","shen_type":0,"con":24,"water":200,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"int":30,"month":0,"born":"大理人氏","can_speak":1,"last_day_sign":1654166624,"race":"人类","day_sign_times":1,"mud_age":807,"dex":13,"name":"段慕双双","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":200,"potential":1992,"eff_jing":200,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"hnkaigid!m`kicbn`cikmo`jcid`alhahboilkcjf","purename":"慕双双","id":"qq3317948657","jing":200,"gender":"女性","last_ip":"103.45.155.4","surname":"段","last_save":1654167234,"combat_exp":1893,"max_jing":200,"attitude":"peaceful","birthday":1654166547,"age":14,])
+skills (["yeqiu-quan":3,"cuff":3,])
+autoload ({})
+at_time 1654167464
+ban_say_msg ""

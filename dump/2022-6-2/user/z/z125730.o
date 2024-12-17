@@ -1,0 +1,14 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":2386800,"last_vip_set":1654120866,]),"study_skill":1,"per":10,"last_read_news":1653915198,"env":(["wimpy":60,]),"shen":2,"character":"¹âÃ÷ÀÚÂä","can_apprentice_menzhu":"·ç×ÖÃÅ","gongxian":4,"shen_type":0,"lilian":(["start":1653916244,]),"con":24,"eff_qi":646,"unit":"Î»","max_qi":646,"registered":1,"family":(["master_name":"ÍØ°Ï","generation":39,"enter_time":1653915585,"family_name":"Ã÷½Ì","master_id":"tuoba",]),"mycmds":(["fight":(["b1":"ºú½Á#n#Âù²ø:perform cuff.mancan",]),]),"last_cancel_quest_time":-28800,"int":30,"month":2,"can_speak":1,"out_family":1,"race":"ÈËÀà","day_sign_times":2,"dex":13,"name":"ºúÖß","potential":52680,"eff_jing":200,"limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","×ó½Å","ÓÒ½Å",}),"sec_id":"elmfcaad!aljjiokjco`dkbhajlndaoicdiei`mlf","purename":"ºúÖß","jing":200,"surname":0,"combat_exp":87161,"max_jing":200,"neili":139,"experience":0,"max_neili":139,"chuwudai":1,"online_time":50326,"qi":584,"born_family":"ÖĞÔ­ÈËÊÏ","quest_count":4,"special_skill":(["lucky":1,]),"javadoing":1,"last_examine":(["all_quest":0,"mud_age":56414,"experience":0,"potential":52676,"time":1654120805,"combat_exp":87149,]),"die_protect":(["duration":7200,"last_dead":1653920646,]),"str":13,"score":30,"learned_points":47800,"title":"[1;32mÃ÷½Ì[2;37;0m·ç×ÖÃÅ½ÌÖÚ[2;37;0m","kar":30,"shimen":(["lun":4,"today":0,"last":1653916014,]),"startroom":"/d/city/wumiao","water":175,"born":"ÖĞÔ­ÈËÊÏ","last_day_sign":1653956422,"mud_age":56487,"holiday":([]),"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":175,"weiwang":23,"id":"z125730","gender":"ÄĞĞÔ","last_ip":"103.45.155.4","last_save":1654120556,"attitude":"peaceful","maintask":2,"birthday":1653915197,"combat":(["MKS":6,"last_die":"±»ºÚ¹Ú¾ŞòşÉ±ËÀÁË","dietimes":1,]),"balance":9477,"age":14,])
+skills (["shenghuo-quan":44,"lingxu-bu":52,"force":54,"strike":62,"cuff":62,"guangming-zhang":50,"shenghuo-xinfa":54,"yeqiu-quan":3,"dodge":53,"parry":53,"literate":34,"unarmed":2,])
+learned (["shenghuo-quan":1831,"lingxu-bu":1979,"force":0,"strike":2197,"cuff":1868,"guangming-zhang":80,"shenghuo-xinfa":0,"dodge":1578,"parry":1447,"literate":935,"unarmed":0,])
+skill_map (["force":"shenghuo-xinfa","dodge":"lingxu-bu","strike":"guangming-zhang","cuff":"shenghuo-quan",])
+skill_prepare (["strike":"guangming-zhang","cuff":"shenghuo-quan",])
+autoload ({"/clone/money/coin:6920","/clone/shizhe/huxindan9:99","/clone/misc/baibao","/d/gumu/obj/yfzhen:300","/clone/money/silver:52",})
+at_time 1654120864
+ban_to 1654120906
+ban_say_msg "ÏµÍ³½ûÖ¹ÄãËÍ³öĞÅÏ¢"

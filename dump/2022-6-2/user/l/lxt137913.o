@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"online_time":1218,"zjvip":(["times":2589546,"last_vip_set":1654113122,]),"qi":619,"last_read_news":1654110604,"per":10,"class":"beggar","born_family":"中原人氏","env":(["sign5":"xue zuo quan jiaohua-force 9999","wimpy":60,]),"special_skill":(["power":1,]),"shen":0,"character":"光明磊落","str":30,"learned_points":24399,"title":"丐帮第二十代传人","kar":17,"shen_type":0,"lilian":(["start":1654110731,]),"con":24,"water":276,"eff_qi":620,"unit":"位","max_qi":675,"family":(["title":"传人","privs":0,"enter_time":1654110666,"generation":20,"master_name":"左全","family_name":"丐帮","master_id":"zuo quan",]),"registered":1,"int":13,"month":0,"can_speak":1,"born":"中原人氏","race":"人类","mud_age":1841,"name":"魔灵","dex":13,"eff_jing":200,"potential":30110,"food":276,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"ma``bnnf!cbkojnhbbmlgci`jegdbmgekojffdjia","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"lxt137913","purename":"魔灵","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":0,"combat_exp":40011,"last_save":1654112816,"max_jing":200,"attitude":"peaceful","neili":225,"maintask":2,"birthday":1654110603,"max_neili":225,"age":14,])
+skills (["force":49,"jiaohua-neigong":74,"yeqiu-quan":3,"cuff":3,])
+learned (["force":1500,"jiaohua-neigong":2882,])
+skill_map (["force":"jiaohua-neigong",])
+autoload ({})
+at_time 1654113122
+ban_say_msg ""

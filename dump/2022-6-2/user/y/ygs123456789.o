@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":18678,"zjvip":(["times":0,"last_vip_set":1654120702,]),"qi":1,"last_read_news":1654096344,"per":10,"born_family":"中原人氏","env":(["wimpy":60,]),"javadoing":1,"special_skill":(["self":1,]),"die_protect":(["duration":7200,"last_dead":1654098479,]),"shen":0,"character":"狡黠多变","str":20,"score":9,"title":"普通百姓","kar":22,"startroom":"/d/city/wumiao","shen_type":0,"con":20,"water":131,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"int":20,"month":1,"last_day_sign":1654097847,"can_speak":1,"born":"中原人氏","day_sign_times":1,"race":"人类","mud_age":24358,"name":"陌饮醉","dex":20,"eff_jing":200,"potential":10455,"food":131,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"hiokm`ad!in``ohnkhnojkhacoobboommgd`ikdfb","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":0,"id":"ygs123456789","purename":"陌饮醉","jing":1,"gender":"男性","last_ip":"103.45.155.4","surname":0,"combat_exp":10628,"last_save":1654120382,"max_jing":200,"attitude":"peaceful","birthday":1654096342,"combat":(["last_die":"剧毒发作身亡了","dietimes":2,]),"age":14,])
+skills (["force":2,"dodge":1,"yeqiu-quan":3,"unarmed":2,"cuff":3,])
+learned (["force":0,"dodge":0,"unarmed":5,])
+autoload ({"/clone/money/coin:236",})
+at_time 1654098574
+ban_say_msg ""

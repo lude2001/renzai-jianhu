@@ -1,0 +1,7 @@
+#/adm/npc/luban.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["max_qi":600,"qi":600,"no_teach":(["literate":"ÎÒ¿É²»ÊÇ½ÌÊéÏÈÉú¡£",]),"int":60,"per":26,"can_speak":1,"race":"ÈËÀà","nickname":"[1;36m¹í¸«Éñ¹¤[2;37;0m","shen":0,"name":"Â³°à","dex":18,"eff_jing":200,"limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","×ó½Å","ÓÒ½Å",}),"str":10000,"id":"lu ban","jing":200,"title":"ÌìÏÂµÚ¶şÇÉ½³","gender":"ÄĞĞÔ","inquiry":(["Âò·¿":,]),"icon":"01075","max_jing":200,"attitude":"friendly","shen_type":0,"startroom":"/d/room/xiaoyuan","con":13,"eff_qi":600,"age":1450,"skill_luban":1,"long":"Õâ¾ÍÊÇºÅ³ÆÌìÏÂµÚ¶şÇÉ½³µÄ½¨Öş´óÊ¦¹«Êä°à£¬²»ÂÛÊÇÔìÊ²Ã´Ñù×Ó·¿Îİ£¬ÔÚËûÊÖÏÂ¶¼²»ÊÇÎÊÌâ¡£","unit":"Î»",])
+skills (["literate":120,"drawing":500,"certosina":500,])

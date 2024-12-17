@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":10210,"zjvip":(["times":0,"last_vip_set":1654120759,]),"qi":600,"last_read_news":1654106203,"per":10,"born_family":"中原人氏","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"shen":0,"character":"光明磊落","str":13,"title":"普通百姓","kar":10,"shen_type":0,"con":24,"water":230,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"int":30,"month":0,"can_speak":1,"born":"中原人氏","race":"人类","mud_age":14556,"name":"著花","dex":13,"eff_jing":200,"potential":100,"food":230,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"`iakkahk!b`ogicmhdhhkhn`ble`nbcloimefimjc","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"a1235046","purename":"著花","jing":200,"gender":"女性","last_ip":0,"surname":0,"last_save":1654120438,"max_jing":200,"attitude":"peaceful","birthday":1654106201,"age":14,])
+skills (["yeqiu-quan":3,"cuff":3,])
+autoload ({})
+at_time 1654106202
+ban_say_msg ""

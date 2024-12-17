@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["study_skill":1,"zjvip":(["lingzhi_num":1,"buchang220525":1,"times":1890503,"buchang220523":1,"last_vip_set":1654167533,]),"per":11,"last_read_news":1653338831,"env":(["wimpy":60,]),"shen":0,"character":"光明磊落","skill_point":1,"level":3,"shen_type":0,"max_jingli":9,"con":13,"eff_qi":600,"unit":"位","max_qi":707,"family":(["title":"传人","privs":0,"enter_time":1653344478,"generation":4,"master_name":"谷虚道长","family_name":"武当派","master_id":"guxu daozhang",]),"registered":1,"last_cancel_quest_time":-28800,"int":24,"month":6,"can_speak":1,"day_item":(["lingzhi":(["times":1,"last_time":1653922697,]),]),"day_sign_times":2,"race":"人类","jingli":9,"dex":13,"name":"武功","potential":222108,"eff_jing":245,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"cmdbccji!lci`i`flkgoghmfem`bklmck`fl`dnmd","purename":"武功","jing":245,"surname":0,"combat_exp":671951,"max_jing":245,"neili":117,"max_neili":117,"online_time":625216,"qi":39,"class":"taoist","born_family":"中原人氏","special_skill":(["lucky":1,]),"javadoing":1,"last_examine":(["all_quest":0,"mud_age":620784,"experience":0,"potential":222108,"time":1654120804,"combat_exp":620205,]),"die_protect":(["duration":7200,"last_dead":1653388159,]),"weihu":(["buchang220525":1,]),"str":30,"score":39526,"learned_points":68094,"title":"武当派第四代传人","kar":21,"startroom":"/d/city/wumiao","water":86,"last_day_sign":1653922757,"born":"中原人氏","mud_age":665643,"holiday":([]),"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":86,"weiwang":0,"id":"qq7803","gender":"男性","last_ip":"103.45.155.4","last_save":1654166367,"attitude":"peaceful","maintask":2,"birthday":1653338829,"combat":(["last_die":"被渡劫杀死了","dietimes":1,]),"age":16,])
+skills (["claw":10,"force":74,"wudang-xinfa":67,"hand":9,"strike":13,"cuff":11,"finger":10,"sword":67,"dodge":74,"yeqiu-quan":3,"parry":67,"literate":80,"unarmed":49,])
+learned (["claw":41,"force":2379,"wudang-xinfa":3546,"hand":58,"strike":0,"cuff":42,"finger":29,"sword":3878,"dodge":1967,"parry":4239,"literate":5291,"unarmed":981,])
+skill_map (["force":"wudang-xinfa",])
+autoload ({"/u/cx/luck/putao:3","/clone/vip/card_name:1","/clone/shizhe/book_tianfu:1","/u/cx/luck/lingzhi","/clone/gift/dan_chongmai1:3","/clone/gift/dan_chongmai3:1","/clone/gift/dan_chongmai2:1","/u/cx/luck/lingzhi","/u/cx/luck/lingzhi","/clone/maintask/obj/tianxiang:1","/common/bind_obj/clone/vip/dan_jiuzhuan:3","/common/bind_obj/clone/vip/dan_chongmai1:100","/common/bind_obj/clone/vip/putao1:4","/clone/gift/gift_duanwu:1","/clone/money/coin:33624",})
+at_time 1654166382
+ban_to 1654166323
+ban_say_msg "系统禁止你送出信息"

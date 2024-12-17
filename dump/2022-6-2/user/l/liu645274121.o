@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":904,"zjvip":(["times":0,"last_vip_set":1654090259,]),"qi":395,"last_read_news":1654089333,"per":10,"born_family":"段氏皇族","env":(["brief":0,"wimpy":60,]),"javadoing":1,"special_skill":(["ghost":1,]),"shen":0,"character":"狡黠多变","str":13,"score":4,"title":"普通百姓","kar":18,"shen_type":0,"startroom":"/d/dali/wangfugate","con":24,"water":145,"eff_qi":420,"unit":"位","max_qi":420,"registered":1,"int":30,"month":0,"last_day_sign":1654090096,"can_speak":1,"born":"大理人氏","day_sign_times":1,"race":"人类","mud_age":926,"name":"段渊博木头","dex":13,"eff_jing":200,"potential":2509,"food":145,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"omhhikid!nje`heifingjeaengjo`kgnakfb`lbid","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"liu645274121","purename":"渊博木头","jing":200,"gender":"男性","last_ip":"103.45.155.4","surname":"段","combat_exp":2469,"last_save":1654089950,"max_jing":200,"attitude":"peaceful","birthday":1654089331,"age":14,])
+skills (["force":2,"yeqiu-quan":3,"unarmed":2,"cuff":3,])
+learned (["force":0,"unarmed":0,])
+autoload ({"/clone/money/coin:91",})
+at_time 1654090258
+ban_say_msg ""
